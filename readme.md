@@ -1,4 +1,4 @@
-Compiler course on edx from Stanford
+Compiler course on edx from Stanford and "Writing interpreters in Go" by Thorsten Ball
 
 # languages
 * compilers - takes input (program) - produces executable. This is another program, that takes data and produces output. Offline
