@@ -4,7 +4,7 @@ Compiler course on edx from Stanford and "Writing interpreters in Go" by Thorste
 * compilers - takes input (program) - produces executable. This is another program, that takes data and produces output. Offline
 * interpreters - takes input (program) and data and produces direct output. Online
 
-# compilation process
+# The process
 
 ### lexical analysis
 recognize words - syntax of language. Divide program text into words - `tokens`
